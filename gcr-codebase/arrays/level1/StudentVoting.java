@@ -16,6 +16,5 @@ public class StudentVoting {
             else
                 System.out.println("Cannot Vote");
         }
-        sc.close();
     }
 }
